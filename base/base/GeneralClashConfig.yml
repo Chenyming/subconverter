@@ -209,6 +209,9 @@ rules:
   - IP-CIDR,10.110.192.0/24,NIOVPN,no-resolve
   - IP-CIDR,10.110.199.0/24,NIOVPN,no-resolve
   - RULE-SET,applications,DIRECT
+  - DOMAIN,frp-law.top,DIRECT
+  - DOMAIN,frp-fit.top,DIRECT
+  - DOMAIN,frp-ask.top,DIRECT
   - DOMAIN,clash.razord.top,DIRECT
   - DOMAIN,yacd.haishan.me,DIRECT
   - RULE-SET,private,DIRECT
